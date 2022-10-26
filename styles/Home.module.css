@@ -28,8 +28,12 @@
   flex-grow: 1;
 }
 
+.title {
+  color: gray;
+}
+
 .title a {
-  color: #0070f3;
+  color: #000;
   text-decoration: none;
 }
 
